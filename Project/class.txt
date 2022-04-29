@@ -1,0 +1,18 @@
+MALOP#TENLOP#
+D18CN1#Cong nghe thong tin 1#
+D18CN2#Cong nghe thong tin 2#
+D18CN3#Cong nghe thong tin 3#
+D18AT1#An toan thong tin 1#
+D18AT2#An toan thong tin 2#
+D18PT1#Da phuong tien 1#
+D17PT1#Da phuong tien 1#
+D18MT1#Marketing 1#
+D18QT1#Quan tri kinh doanh 1#
+D19QT1#Quan tri kinh doanh 1#
+D18KT1#Ke toan 1#
+D18KT2#Ke toan 2#
+D19VT1#Ky thuat dien tu 1#
+D19VT2#Ky thuat dien tu 2#
+D19CN2#Cong nghe thong tin 2#
+D19CN3#Cong nghe thong tin 3#
+D20CN2#Cong nghe thong tin 2#

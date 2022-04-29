@@ -1,0 +1,64 @@
+# Project: Project2
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = main.o CUSTOMATTRIBUTE.o ADDCLASS.o MENU.o DRAWINPUTFORM.o FRAME.o ADDCLASS_CONTROL.o RESET_CONTROL.o MENU_CONTROL.o OTHER_CONTROL.o LOGIN.o DRAWBUTTON.o LOGIN_CONTROL.o
+LINKOBJ  = main.o CUSTOMATTRIBUTE.o ADDCLASS.o MENU.o DRAWINPUTFORM.o FRAME.o ADDCLASS_CONTROL.o RESET_CONTROL.o MENU_CONTROL.o OTHER_CONTROL.o LOGIN.o DRAWBUTTON.o LOGIN_CONTROL.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = Project2.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+CUSTOMATTRIBUTE.o: CUSTOMATTRIBUTE.cpp
+	$(CPP) -c CUSTOMATTRIBUTE.cpp -o CUSTOMATTRIBUTE.o $(CXXFLAGS)
+
+ADDCLASS.o: ADDCLASS.cpp
+	$(CPP) -c ADDCLASS.cpp -o ADDCLASS.o $(CXXFLAGS)
+
+MENU.o: MENU.cpp
+	$(CPP) -c MENU.cpp -o MENU.o $(CXXFLAGS)
+
+DRAWINPUTFORM.o: DRAWINPUTFORM.cpp
+	$(CPP) -c DRAWINPUTFORM.cpp -o DRAWINPUTFORM.o $(CXXFLAGS)
+
+FRAME.o: FRAME.cpp
+	$(CPP) -c FRAME.cpp -o FRAME.o $(CXXFLAGS)
+
+ADDCLASS_CONTROL.o: ADDCLASS_CONTROL.cpp
+	$(CPP) -c ADDCLASS_CONTROL.cpp -o ADDCLASS_CONTROL.o $(CXXFLAGS)
+
+RESET_CONTROL.o: RESET_CONTROL.cpp
+	$(CPP) -c RESET_CONTROL.cpp -o RESET_CONTROL.o $(CXXFLAGS)
+
+MENU_CONTROL.o: MENU_CONTROL.cpp
+	$(CPP) -c MENU_CONTROL.cpp -o MENU_CONTROL.o $(CXXFLAGS)
+
+OTHER_CONTROL.o: OTHER_CONTROL.cpp
+	$(CPP) -c OTHER_CONTROL.cpp -o OTHER_CONTROL.o $(CXXFLAGS)
+
+LOGIN.o: LOGIN.cpp
+	$(CPP) -c LOGIN.cpp -o LOGIN.o $(CXXFLAGS)
+
+DRAWBUTTON.o: DRAWBUTTON.cpp
+	$(CPP) -c DRAWBUTTON.cpp -o DRAWBUTTON.o $(CXXFLAGS)
+
+LOGIN_CONTROL.o: LOGIN_CONTROL.cpp
+	$(CPP) -c LOGIN_CONTROL.cpp -o LOGIN_CONTROL.o $(CXXFLAGS)

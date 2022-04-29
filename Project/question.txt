@@ -1,0 +1,26 @@
+MAMH#Id#NOIDUNG#A#B#C#D#ANSWER#
+DAISO#96#Ket qua cua 3 + 5 la: #5#8#9#11#2#
+DAISO#95#Sap xep cac so: 0,5,2,10 theo thu tu tu be den lon: #10,5,2,0#2,0,10,5#0,2,5,10#0,2,5,10#3#
+DAISO#77#So lon nhat co mot chu so la: #8#9#10#11#2#
+DAISO#66#Tren canh co 20 con chim dau, sau do co 1 chuc con bay di. Hoi tren canh con lai bao nhieu con chim? #10#23#20#30#1#
+DAISO#71#Co bao nhieu so co 1 chu so#10#9#8#90#1#
+DAISO#2#So lien truoc so co 2 chu so la:#8#9#10#11#2#
+DAISO#16#So o giua so 24 va 27 la so#28#24#26#29#3#
+DAISO#80#Ket qua cua phep tinh 56+13 la:#59#80#69#50#3#
+LICHSU#17#Cau noi:"Cac vua Hung da co cong dung nuoc,Bac chau ta phai cung nhau giu lay nuoc" la cua ai?#Ho Chi Minh #Ton Duc Thang#Pham Van Dong#Vo Nguyen Giap#1#
+LICHSU#50#Tim hieu va dung lai toan bo hoat dong cua con nguoi trong qua khu la nhiem vu cua mon hoc#Su hoc#Khao co hoc#Sinh hoc #Van hoc#1#
+LICHSU#34#Hung Vuong len ngoi, dat ten nuoc la:#Dai Viet#Van Lang#Dai Co Viet#Au Lac#2#
+LICHSU#6#Nam 1884,sau khi trieu dinh Hue ki hiep uoc cong nhan quyen do ho cua thuc dan Phap tren toan bo nuoc ta,trong noi bo trieu dinh Hue da nay sinh nhung quan diem nao?#Hoa hoan, thuong thuyet voi Phap#Cuong quyet cung nhan dan tiep tuc chien dau chong Phap, gianh lai doc lap dan toc#Cau cuu nha Thanh dua quan sang danh Phap.#Ca A va B dung#3#
+LICHSU#35#Cuoc khoi nghia nao thuoc phong trao khoi nghia huong ung Chieu Can Vuong?#Khoi nghia Ba Dinh#Khoi nghia Bai Say#Khoi nghia Huong khue#Ca A,B va C dung#4#
+LICHSU#65#Tu cuoi the ky XIX, o Viet Nam ta da xuat hien nghanh kinh te moi nao?#Nen cong nghiep khai sang#Nganh det#Nganh san xuat xi mang, dien, nuoc#Ca A,B va C dung#4#
+VATLY#23#Cuoc goi duoc thuc hien dau tien tren the gioi la giua phat minh Alexander Graham Bell va...?#Vo cua ong #Thi truong thanh pho#Cuc dang ky phat minh#Nguoi tro ly#4#
+VATLY#73#Don vi nao duoi day khong duoc dung de do the tich#Lit#Gallon#Ounce#Yard#1#
+VATLY#49#Phat minh nao duoi day ra doi som nhat#Kinh thien van#May dien bao#Dien thoai#May tho#1#
+VATLY#88#Theo cac nha thien van hoc,thanh phan chu yeu cau tao nen sao choi la gi?#Kim loai#Dat da#Dung nham nong chay#Bang#2#
+VATLY#7#Cac vat cho dong dien chay qua goi la gi?#Vat dan dien#Vat cach dien#Vat ngat dien#Ca ba y tren#1#
+NGUVAN#38#khi gap Thuy Kieu, Kim Trong trao cho vat gi lam tin?#Dai yem#Mieng lua#Chiec cham cai toc#Chiec khan hong#4#
+NGUVAN#85#Quoc hieu dau tien cua nuoc ta la gi ?#Van Lang#Dai Viet#Dai Nam#Dap an khac#1#
+NGUVAN#61#Trong tac pham "nho rung" cua The Lu khi say con ho uong cai gi?#Anh trang tan#Nuoc suoi#Ruou#Khong uong gi#1#
+NGUVAN#44#Dai Vuong Ech trong tac pham "De mem phieu luu ky" co ten la gi?#Ech uong #Ech com#Ech dong#Ech rung#2#
+NGUVAN#14#Vu dieu truyen thong cua dao Hawaii la?#Dieu nhay Hula#Dieu nhay cha cha cha#Vu dieu SamBa#Vu dieu Tango#1#
+NGUVAN#69#Vinh nao cua Viet Nam duoc coi la 1 trong 3 vinh dep nhat the gioi?#Vinh Ha Long#Vinh Lang Co#Vinh Xuan Dai#Vinh Cam Ranh#4#
